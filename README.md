@@ -1,4 +1,4 @@
-Small Project to learn how to use MERN stack together
-a book store implementing CRUD requests
-frontend using react Js and Tailwind Css
-backend with Express and MongoDB Node JS
+- Small Project to learn how to use MERN stack together
+- A book store implementing CRUD requests
+- Frontend using react Js and Tailwind Css
+- Backend with Express and MongoDB Node JS
